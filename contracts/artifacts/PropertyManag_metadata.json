@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.23+commit.f704f362"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/PropertyTrade.sol": "PropertyManag"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/PropertyTrade.sol": {
+			"keccak256": "0x603b81cfd37f6e25749c9d3095fdc8c7e1c8a52021427e07f9205fcea2994e46",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ab6536e7d8b1ae15d6f5c5cfead98a063e14a2933c480cff65d7c88658a7b452",
+				"dweb:/ipfs/QmUkqt6LS2tgQeknHBb1Z6FjBACZH3MFidqkezeyEqPkbP"
+			]
+		}
+	},
+	"version": 1
+}
